@@ -5,7 +5,8 @@
 
 
 ## 🚀 Skills:
-- HTML, CSS, JS <img alt="HTML-icon" height="14px" width="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img alt="CSS-icon" height="14px" width="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img alt="JS-icon" height="14px" width="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+- <img alt="HTML-icon" height="14px" width="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img alt="CSS-icon" height="14px" width="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> HTML, CSS 
+- <img alt="JS-icon" height="14px" width="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> JavaScript
 
 ## 📞 Contato:
 
