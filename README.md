@@ -1,21 +1,12 @@
 ### Oi 👋, seja bem-vindo!
 
 👨‍💻 Meu nome é Luís, e atualmente estou cursando Ciência da Computação na [UNIVEM](https://www.univem.edu.br/).<br>
-🌱 No momento estou aprendendo sobre JavaScript e JQuery
+🌱 No momento estou aprendendo sobre JQuery
 
 
 ## 🚀 Skills:
-- HTML, CSS, JS
+- HTML, CSS, JS <img alt="HTML-icon" height="14px" width="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img alt="CSS-icon" height="14px" width="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img alt="JS-icon" height="14px" width="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
-##
-
-<div style="display: inline_block" align="center"><br>
-<img align ="center" alt="HTML-icon" height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="center" alt="CSS-icon" height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="center" alt="JS-icon" height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-</div>
-
-##
 ## 📞 Contato:
 
 
