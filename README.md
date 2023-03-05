@@ -1,7 +1,7 @@
 ### Oi 👋, seja bem-vindo!
 
 👨‍💻 Meu nome é Luís, e atualmente estou cursando Ciência da Computação na [UNIVEM](https://www.univem.edu.br/).<br>
-🌱 No momento estou aprendendo sobre JQuery
+🌱 No momento estou aprendendo sobre ReactJS
 
 
 ## 🚀 Skills:
