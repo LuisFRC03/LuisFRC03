@@ -1,17 +1,15 @@
-### Oi 👋, seja bem-vindo!
+### Hi there, I'm Luís Ribeiro.
 
-👨‍💻 Meu nome é Luís, e atualmente estou cursando Ciência da Computação na [UNIVEM](https://www.univem.edu.br/).<br>
-🌱 No momento estou aprendendo sobre ReactJS
-
-
-## 🚀 Skills:
-- <img alt="HTML-icon" height="14px" width="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img alt="CSS-icon" height="14px" width="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> HTML, CSS 
-- <img alt="JS-icon" height="14px" width="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> JavaScript
-
-## 📞 Contato:
+👨‍💻 I'm a 22-year-old Computer Science graduate, passionate about programming and always eager to learn new things.<br>
+💡 I specialize in frontend development, turning ideas into smooth, high-converting online experiences.
 
 
-<a href="mailto:luisfelipecampos4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/luis.f.rc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/luís-ribeiro-0754b5249/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+## 💻 Technical Skills:
+<img src="https://camo.githubusercontent.com/2fee2b7b6b1c7c53b7eec17ce520c9e48119304c270ee22981967fc373b4c37a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d2532336533346332363f7374796c653d666c6174266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="HTML5" data-canonical-src="https://img.shields.io/badge/HTML-%23e34c26?style=flat&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/a03be6d64a0f2e807f1935ac69ab709de129e9e468accced4f802534c69f792c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532d2532333236346465343f7374796c653d666c6174266c6f676f3d63737333" alt="CSS3" data-canonical-src="https://img.shields.io/badge/CSS-%23264de4?style=flat&amp;logo=css3" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/686f6e1aa93a631451d6bb4d9007c2ce769e86dfc680dd761a4c97453f32ed62/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d2532336631653035613f7374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/JavaScript-%23f1e05a?style=flat&amp;logo=javascript&amp;logoColor=black" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/3859c7ec155d23ce5c6998a8e48178ae8270d8519a17e1b5c0bea25363ef11f3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d2532333331373863363f7374796c653d666c6174266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" alt="TypeSript" data-canonical-src="https://img.shields.io/badge/TypeScript-%233178c6?style=flat&amp;logo=typescript&amp;logoColor=white" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/ab9546fb2718cc065737ccd6c790fd7a825600a552673585672a859d1e64c3e2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163744a532d2532333333333f7374796c653d666c6174266c6f676f3d7265616374" alt="ReactJS" data-canonical-src="https://img.shields.io/badge/ReactJS-%23333?style=flat&amp;logo=react" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/345fcaa70f76f9ad11cad8fabf84d194cd00b0b1e09032adeae8eda671cd1853/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d2532334634344432373f7374796c653d666c6174266c6f676f3d676974266c6f676f436f6c6f723d7768697465" alt="Git" data-canonical-src="https://img.shields.io/badge/Git-%23F44D27?style=flat&amp;logo=git&amp;logoColor=white" style="max-width: 100%;">
+
+## 📫 How to reach me:
+
+
+<a href="mailto:luisfelipecampos4@gmail.com"><img src="https://camo.githubusercontent.com/626329af643738da06c8aa8e5180ef72d8badeae971890e7d7c12d27bf917d54/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d2532336337313631303f7374796c653d666c6174266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail" data-canonical-src="https://img.shields.io/badge/Gmail-%23c71610?style=flat&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/luís-ribeiro-0754b5249/" target="_blank"><img src="https://camo.githubusercontent.com/b8ef7c68cb21eb0697cef07e57de4715eb21c0c441d45bf6f50ca7710df0dfdf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742353f7374796c653d666c6174266c6f676f3d6c696e6b6564696e" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&amp;logo=linkedin" style="max-width: 100%;"></a>
 
